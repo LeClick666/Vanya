@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanya-vpn-connect.ru/sitemap.xml
